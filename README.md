@@ -16,3 +16,6 @@ This is a simple web project, depolyment can be on any web sever or even on a lo
 
 ## How To Contribute
 
+## Copyright
+
+2019 Michael
