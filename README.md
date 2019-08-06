@@ -16,6 +16,8 @@ This is a simple web project, depolyment can be on any web sever or even on a lo
 
 ## How To Contribute
 
+Please fork this repo and then issue Pull request for review
+
 ## Copyright
 
 2019 Michael
