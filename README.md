@@ -20,4 +20,4 @@ Please fork this repo and then issue Pull request for review
 
 ## Copyright
 
-2019 Michael
+2019 Michael All rights reserved.
